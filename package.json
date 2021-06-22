@@ -1,0 +1,26 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "watch": {
+    "test": "resume.json"
+  },
+  "scripts": {
+    "test": "resume export --theme /Users/slevin/dev/jsonresume-theme-classy --format html out.html",
+    "watch": "npm-watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/PhilippeSchraepen/curly-guacamole.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PhilippeSchraepen/curly-guacamole/issues"
+  },
+  "homepage": "https://github.com/PhilippeSchraepen/curly-guacamole#readme",
+  "dependencies": {
+    "npm-watch": "^0.10.0"
+  }
+}

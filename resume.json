@@ -1,0 +1,186 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Philippe Schraepen ",
+    "label": "Front-end developer",
+    "picture": "https://i.imgur.com/E9a3ikO.jpeg",
+    "email": "schraepen.philippe@gmail.com",
+    "phone": "0472 90 42 67",
+    "summary": "<p>Als sociaal en geëngageerd persoon zorg ik graag voor menselijke websites en digitale\n    toepassingen.</p><p>Ik breek graag uit mijn rol om voeling te krijgen met het volledige project: naast ontwikkeling\n    werk ik graag mee aan voortrajecten, klantcontact en support.</p>\n<p><br>Waar ik gelukkig van word:</p>\n<ul>\n    <li>werken in een goede culture-fit</li>\n    <li>vlotte gebruikerservaringen</li>\n    <li>ruimte voor experiment en persoonlijke ontwikkeling</li>\n</ul>\n<p>Dingen die ik minder leuk vind:</p>\n<ul>\n    <li>verplichte onboarding tutorials</li>\n    <li>Projecten zonder .eslintrc file</li>\n    <li><a href=\"https://www.darkpatterns.org/\" target=\"_blank\">Dark Design Patterns</a></li>\n</ul>\n\n<p>Ik ben getrouwd met Anne en ben sinds mei papa van een baby'tje genaamd Gijs.</p>\n",
+    "location": {
+      "postalCode": "2100",
+      "city": "Deurne, Antwerpen",
+      "countryCode": "België",
+      "region": "Antwerpen"
+    }
+  },
+  "work": [
+    {
+      "company": "Spaced",
+      "position": "Front-end developer",
+      "url": "https://spaced.be",
+      "startDate": "2017",
+      "endDate": "2021",
+      "summary": "Ontwikkelen van apps en PWA's in Ionic-, Angular- en React, coachen van junior developers, faciliteren van user-tests en workshops, prospecting, facturering en boekhouding in een uitdagende - kleinschalige omgeving.",
+      "highlights": [
+        "HeyDay - Hybrid app voor jongeren te ondersteunen die vroeg op eigen benen moeten staan. (Ionic, Angular)",
+        "Meer Mensen, Meer toekomst – Serious game als onderdeel van een campagne voor de Oost-Vlaamse regio (Angular, NgRX)",
+        "Straatvinken (Ringland) – App voor jaarlijkse verkeerstelling als onderdeel van een citizen science project (Angular, NgRX, Firebase)",
+        "De Watergroep – Lesplatform voor lessen op maat en geanimeerd educatief spel voor kinderen rond drinkwater (Angular, TypeScript, NgRX)"
+      ]
+    },
+    {
+      "company": "Euricom / freelance",
+      "position": "Consultancy",
+      "startDate": "2015",
+      "endDate": "2017",
+      "summary": "Periode met verschillende consultancy opdrachten. Zowel in loondienst bij Euricom, als voor mezelf als freelancer",
+      "highlights": [
+        "Back-office tool voor automatisering van time-sheets en facturering (MEAN-stack)",
+        "KBC Bank & Verzekeringen - Angular developer voor de Touch en Invest apps in een corporate setting (AngularJS, Angular, TDD)",
+        "Statik - Ontwikkeling van marketting websites (JS, HTML, CSS, Vue.JS)",
+        "Spaced - Ontwikkeling van apps en websites (Angular, ReactJS)"
+      ]
+    },
+    {
+      "company": "Option",
+      "position": "Front-end developer",
+      "startDate": "2013",
+      "endDate": "2014",
+      "summary": "Als front-end ontwikkelaar bouwde ik User Interfaces voor IoT toepassingen",
+      "highlights": [
+        "Front-end interfaces voor nieuwe features en uitbereidingskaarten (Bootstrap, AngularJS)",
+        "Ontwikkeling en onderhoud van CloudGate Universe – een Drupal platform voor firmware provisioning"
+      ]
+    },
+    {
+      "company": "Afractie vzw",
+      "position": "Vrijwilliger",
+      "startDate": "2012",
+      "endDate": "2013",
+      "summary": "Vrijwilliger in een sociaal project voor straatkinderen in Dakar, Senegal.",
+      "highlights": [
+        "Ondersteuning in de dagelijkse werking",
+        "Opzetten van computer-labo's",
+        "Lesgeven in algemene computerskills"
+      ]
+    },
+    {
+      "company": "Simac",
+      "position": "Systeem- en netwerkbeheer",
+      "startDate": "2011",
+      "endDate": "2012",
+      "highlights": [
+        "Servers configureren, plaatsen en beheren voor telecom klanten"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Euricom",
+      "area": "MEAN stack",
+      "studyType": "Bootcamp",
+      "startDate": "2017",
+      "endDate": "2017"
+    },
+    {
+      "institution": "Katholieke Hogeschool Kempen - Geel",
+      "area": "ICT",
+      "studyType": "Professionele Bachelor",
+      "startDate": "2008",
+      "endDate": "2011"
+    },
+    {
+      "institution": "VTI Hasselt",
+      "area": "Informaticabeheer",
+      "studyType": "Secundair",
+      "startDate": "2006",
+      "endDate": "2008"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Deployment of Linux Terminal Server Project",
+      "publisher": "Katholieke Hogeschool Kempen",
+      "releaseDate": "2011",
+      "summary": "Stage en eindwerk in Jimma University, Ethiopië."
+    }
+  ],
+  "languages": [
+    {
+      "language": "Nederlands",
+      "fluency": "Moedertaal"
+    },
+    {
+      "language": "English",
+      "fluency": "Heel goed"
+    },
+    {
+      "language": "Frans",
+      "fluency": "Gemiddeld"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Tags: ",
+      "keywords": [
+        "Cider brouwen",
+        "Weekendjes weg met vrienden",
+        "Joggen",
+        "Groene vingers",
+        "Feestjes, concerten en festivals",
+        "Dungeons & Dragons",
+        "Yoga with Adriene",
+        "Mediteren",
+        "Avontuurlijke hikes",
+        "Kamperen",
+        "Cultuurreizen ",
+        "Boeken lezen"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript (ES6)",
+        "Angular",
+        "Component Driven Development",
+        "NgRx",
+        "Observables",
+        "TypeScript",
+        "Angular Material",
+        "ReactJS",
+        "Gatsby",
+        "Test Driven Development",
+        "NextJS",
+        "Ionic",
+        "Firebase",
+        "Git",
+        "NodeJS",
+        "Vue.js"
+      ]
+    },
+    {
+      "name": "Other",
+      "level": "Master",
+      "keywords": [
+        "Accessibility (AnySurfer)",
+        "Workshops faciliteren",
+        "Design Systems",
+        "UX Interviewing",
+        "Rapid Prototyping",
+        "Video streaming (OBS)",
+        "Webinars organiseren"
+      ]
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  }
+}
